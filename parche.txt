@@ -1,2 +1,3 @@
 "En la carpeta común-arreglos hemos dejado la solución"
+"Modificación: se añade una línea"
 "2024-01-05T9.56:57AM"
